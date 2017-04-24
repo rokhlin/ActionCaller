@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActionCaller</string>
+    <string name="pick_action">Pick Action</string>
+    <string name="list_of_actions">List of actions</string>
+
+    <string name="toast_message">Current Action is Toast</string>
+    <string name="notification_message">Current action is Notification</string>
+    <string name="notification_title">Action Notification</string>
+
+    <string name="notification_action_unvaliable">Action unvaliable!</string>
+    <string name="internet_unvaliable">Internet unvaliable! Reconnecring//</string>
+    <string name="notification_action_runs_in_incorrect_day">On this day you can not run this action!</string>
+    <string name="notification_action_cooledDown">Action already called and was cooled down!</string>
+    <string name="notification_action_last_action">Last action already called!</string>
+    <string name="title_activity_list_activity">List activity</string>
+</resources>
